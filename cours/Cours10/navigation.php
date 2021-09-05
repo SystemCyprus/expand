@@ -1,0 +1,13 @@
+<a href="#Réagir aux événements">Réagir aux événements</a>
+<a href="#EventListener">EventListener</a>
+<a href="#Navigation DOM">Navigation DOM</a>
+<a href="#Noeuds racine">Noeuds racine</a>
+<a href="#nodeName"></a>
+<a href="#nodeValue">nodeValue</a>
+<a href="#nodeType">nodeType</a>
+<a href="#Élements DOM">Élements DOM</a>
+<a href="#Insertion">Insertion</a>
+<a href="#Suppression">Suppression</a>
+<a href="#Remplacement">Remplacement</a>
+<a href="#Collections DOM">Collections DOM</a>
+<a href="#Bibliographie">Bibliographie</a>

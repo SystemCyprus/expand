@@ -1,0 +1,12 @@
+<a href="#Switch">Switch</a>
+<a href="#Boucle For">Boucle For</a>
+<a href="#For In">For In</a>
+<a href="#For Of">For of</a>
+<a href="#Boucle sur tableau">Boucle sur tableau</a>
+<a href="#Boucle sur string">Boucle sur string</a>
+<a href="#While">While</a>
+<a href="#Do While">Do While</a>
+<a href="#Break">Break</a>
+<a href="#Continue">Continue</a>
+<a href="#Label">Label</a>
+<a href="#Bibliographie">Bibliographie</a>

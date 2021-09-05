@@ -1,0 +1,13 @@
+<a href="#Objets de date">Objets de date</a>
+<a href="#Obtention date">Obtention date</a>
+<a href="#Affectation date">Affectation Date</a>
+<a href="#ObjetMathematique">Objet Mathematique</a>
+<a href="#Trigonometrie">Trigonometrie</a>
+<a href="#min(), max()">min(), max()</a>
+<a href="#random()">random()</a>
+<a href="#log">log</a>
+<a href="#Operateurs de comparaison">Operateurs de comparaison</a>
+<a href="#If">If</a>
+<a href="#Else">Else</a>
+<a href="#Else If">Else If</a>
+<a href="#Bibliographie">Bibliographie</a>

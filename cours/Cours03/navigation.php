@@ -1,0 +1,13 @@
+<a href="#JavaScript">JavaScript</a>
+<a href="#Balise JavaScript">Balise JavaScript</a>
+<a href="#JavaScript Externe">JavaScript Externe</a>
+<a href="#Sortie JavaScript">Sortie JavaScript</a>
+<a href="#La methode write()">La methode write()</a>
+<a href="#La methode alert()">La methode alert()</a>
+<a href="#Declarations JavaScript">Declarations JavaScript</a>
+<a href="#Commentaires JavaScript">Commentaires JavaScript</a>
+<a href="#Variables JavaScript">Variables JavaScript</a>
+<a href="#Portée en JavaScript">Portée en JavaScript</a>
+<a href="#Types de données">Types de données</a>
+<a href="#Fonctions JavaScript">Fonctions JavaScript</a>
+<a href="#Bibliographie">Bibliographie</a>

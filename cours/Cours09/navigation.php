@@ -1,0 +1,16 @@
+<a href="#Traitement d'erreur">Traitement d'erreur</a>
+<a href="#Throw">Throw</a>
+<a href="#Finally">Finally</a>
+<a href="#Objet d'erreur">Objet d'erreur</a>
+<a href="#Erreur de référence">Erreur de référence</a>
+<a href="#Erreur de syntaxe">Erreur de syntaxe</a>
+<a href="#Erreur de Type">Erreur de Type</a>
+<a href="#Erreur URI">Erreur URI</a>
+<a href="#Recherche d'élément">Recherche d'élément</a>
+<a href="#Par identifiant">Par identifiant</a>
+<a href="#Nom de balise">Nom de balise</a>
+<a href="#Nom de la classe">Nom de la classe</a>
+<a href="#Selecteurs CSS">Selecteurs CSS</a>
+<a href="#Modification du HTML">Modification du HTML</a>
+<a href="#Changement du CSS">Changement du CSS</a>
+<a href="#Bibliographie">Bibliographie</a>

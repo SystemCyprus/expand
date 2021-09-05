@@ -1,0 +1,77 @@
+h1 {
+    color: deepskyblue;
+}
+
+p {
+    color: lightblue;
+}
+
+.deuxBoites {
+    display: flex;
+}
+
+.deuxBoites div {
+    margin: 1em 3em;
+}
+
+table th {
+    background-color: #4682b4;
+}
+
+dl {
+    margin: 0;
+}
+
+dt {
+    background-color: dodgerblue;
+}
+
+dd {
+    background-color: mediumslateblue;
+}
+
+pre code {
+    background-color: #161b22;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+}
+
+code {
+    color: darkorchid;
+}
+
+body a {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+body a:hover {
+    color: cornflowerblue;
+}
+
+header a {
+    color: #4682b4;
+}
+
+header a:hover {
+    background-color: #161b22;
+    text-decoration: underline;
+}
+
+header a:active {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.cours-actif {
+    background-color: #161b22;
+}
+
+.cours-actif a {
+    color: cornflowerblue;
+}
+
+.chapitre a{
+    display: block;
+}

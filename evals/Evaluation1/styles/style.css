@@ -1,0 +1,35 @@
+/* selecteur id bonjour
+    texte italique avec font style
+    texte gras avec font-weight
+    text plus grand avec font-size */
+#bonjour {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+/* selecteur id bleu
+    couleur bleu avec color */
+#bleu {
+    color: blue;
+}
+
+/* selecteur id vert
+    couleur verte avec color
+    centré avec text-align */
+#vert {
+    color: green;
+    text-align: center;
+}
+
+/* selecteur id rouge
+    couleur rouge avec color
+    texte plus grand avec font-size
+    texte gras avec font-weight
+    texte à droite avec text-align */
+#rouge {
+    color: red;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: right;
+}

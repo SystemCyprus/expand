@@ -1,0 +1,14 @@
+<a class="<?php echo (basename(getcwd()) == 'Cours01') ? 'cours-actif' : null; ?>" href="../Cours01/">Cours01</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours02') ? 'cours-actif' : null; ?>" href="../Cours02/">Cours02</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours03') ? 'cours-actif' : null; ?>" href="../Cours03/">Cours03</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours04') ? 'cours-actif' : null; ?>" href="../Cours04/">Cours04</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours05') ? 'cours-actif' : null; ?>" href="../Cours05/">Cours05</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours06') ? 'cours-actif' : null; ?>" href="../Cours06/">Cours06</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours07') ? 'cours-actif' : null; ?>" href="../Cours07/">Cours07</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours08') ? 'cours-actif' : null; ?>" href="../Cours08/">Cours08</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours09') ? 'cours-actif' : null; ?>" href="../Cours09/">Cours09</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours10') ? 'cours-actif' : null; ?>" href="../Cours10/">Cours10</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours11') ? 'cours-actif' : null; ?>" href="../Cours11/">Cours11</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours12') ? 'cours-actif' : null; ?>" href="../Cours12/">Cours12</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours13') ? 'cours-actif' : null; ?>" href="../Cours13/">Cours13</a>
+<a class="<?php echo (basename(getcwd()) == 'Cours14') ? 'cours-actif' : null; ?>" href="../Cours14/">Cours14</a>

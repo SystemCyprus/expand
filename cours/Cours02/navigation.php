@@ -1,0 +1,26 @@
+<a href="#Regroupement du contenu">Regroupement du contenu</a>
+<a href="#L'élément <span>">L'élément span</a>
+<a href="#Texte accentué">Texte accentué</a>
+<a href="#Direction du texte">Direction du texte</a>
+<a href="#Élément de définition dfn">Élément de définition dfn</a>
+<a href="#Les éléments META">Les éléments META</a>
+<a href="#Spécification des mots-clés">Spécification des mots-clés</a>
+<a href="#Description du document">Description du document</a>
+<a href="#Date de révision du document">Date de révision du document</a>
+<a href="#Redirection de page">Redirection de page</a>
+<a href="#Commentaire HTML">Commentaire HTML</a>
+<a href="#Couleurs HTML">Couleurs HTML</a>
+<a href="#Couleur de l'arrière plan">Couleur de l'arrière plan</a>
+<a href="#Couleur de la bordure">Couleur de la bordure</a>
+<a href="#Styles HTML">Styles HTML</a>
+<a href="#Border">Border</a>
+<a href="#Lien hypertexte">Lien hypertexte</a>
+<a href="#L'attribut target">L'attribut target</a>
+<a href="#Title">Title</a>
+<a href="#URL relative">URL relative</a>
+<a href="#Signet">Signet</a>
+<a href="#Image">Image</a>
+<a href="#Élément video"><code>&ltvideo&gt</code></a>
+<a href="#L'élément audio">L'élément &ltaudio&gt</a>
+<a href="#Bibliographie">Bibliographie</a>
+

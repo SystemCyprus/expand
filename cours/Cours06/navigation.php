@@ -1,0 +1,10 @@
+<a href="#forEach()">forEach()</a>
+<a href="#map()">map()</a>
+<a href="#filter()">filter()</a>
+<a href="#reduce()">reduce()</a>
+<a href="#every()">every()</a>
+<a href="#indexOf()">indexOf()</a>
+<a href="#lastIndexOf()">lastIndexOf()</a>
+<a href="#find()">find()</a>
+<a href="#findIndex()">findIndex()</a>
+<a href="#Biblographie">Bibliographie</a>
