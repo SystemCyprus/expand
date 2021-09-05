@@ -7,4 +7,4 @@
 <a href="#lastIndexOf()">lastIndexOf()</a>
 <a href="#find()">find()</a>
 <a href="#findIndex()">findIndex()</a>
-<a href="#Biblographie">Bibliographie</a>
+<a href="#Bibliographie">Bibliographie</a>
