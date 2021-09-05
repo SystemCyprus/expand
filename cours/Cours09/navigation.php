@@ -6,6 +6,7 @@
 <a href="#Erreur de syntaxe">Erreur de syntaxe</a>
 <a href="#Erreur de Type">Erreur de Type</a>
 <a href="#Erreur URI">Erreur URI</a>
+<a href="#DOM">DOM</a>
 <a href="#Recherche d'élément">Recherche d'élément</a>
 <a href="#Par identifiant">Par identifiant</a>
 <a href="#Nom de balise">Nom de balise</a>
