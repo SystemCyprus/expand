@@ -1,5 +1,1 @@
-<?php
-
-    echo "2021";
-
-?>
+<time><?php echo "2021"; ?></time>

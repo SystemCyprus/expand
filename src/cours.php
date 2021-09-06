@@ -1,16 +1,18 @@
 <body>
     <div class="container">
-        
+
         <header>
-            <p><?php include '../../src/header.php' ?></p>
+            <?php include '../../src/lescours.php' ?>
         </header>
 
         <aside>
-            <?php include '../../src/lescours.php' ?>
+
         </aside>
 
-        <nav class="chapitre">
-            <?php include 'navigation.php' ?>
+        <nav>
+            <div class="chapitre">
+                <?php include 'navigation.php' ?>
+            </div>
         </nav>
 
         <main>

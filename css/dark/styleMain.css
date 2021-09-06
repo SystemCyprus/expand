@@ -1,3 +1,8 @@
+body {
+    background-color: #090c10;
+    color: #cccccc;
+}
+
 h1 {
     color: deepskyblue;
 }
@@ -72,6 +77,14 @@ header a:active {
     color: cornflowerblue;
 }
 
-.chapitre a{
-    display: block;
+.chapitre {
+    display: flex;
+    flex-direction: column;
+}
+
+aside {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
 }
